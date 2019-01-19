@@ -1,2 +1,2 @@
-# All about Erythro in TL73
-# https://github.com/orgs/newbloodteam/teams/erythro-tl73
+# All about Erythro in TL74
+# https://github.com/orgs/newbloodteam/teams/erythro-tl74
